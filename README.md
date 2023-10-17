@@ -7,7 +7,8 @@ Feel free to fork and modify it for your own purposes. Happy coding!
 Technologies: HTML, CSS, JavaScript
 
 Replace 'YOUR_API_KEY' in the JavaScript code with your API key to use this application.
-TO RUN REPLACE YOUR API KEY
+TO RUN REPLACE YOUR API KEY.
+Demo http://127.0.0.1:5501/index.html.
 
 
 Feel free to adjust it to your needs, and add any other relevant information you think is necessary.
